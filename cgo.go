@@ -1,0 +1,3 @@
+package gocv
+
+import "C"
